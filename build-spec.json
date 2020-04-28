@@ -15,7 +15,7 @@
     },{
        "project_name": "PSAMA DB-AUTH Overlay",
        "project_job_git_key":"PSAMA-DB",
-       "git_hash": "0a7f67a8aabacffb4996bd47015f7700cf7d10f9"
+       "git_hash": "3c2abb5f43a795d977360d77a1bc8ed089a3643f"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
@@ -23,7 +23,7 @@
     },{
       "project_name": "PIC-SURE-OVERRIDE-UI",
       "project_job_git_key":"PSU",
-      "git_hash": "e1c8c63651786949bde2a3f3eb00b2d5469ef912"
+      "git_hash": "3290d60dbf122acbc4e593b2d166b0a7e71ba9b9"
     }
   ]
 }
